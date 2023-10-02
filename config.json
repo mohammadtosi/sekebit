@@ -1,5 +1,8 @@
 {
     "version": "1.4.0",
     "descriptin": "my desc",
-    "url": "https://app.sekebit.com/#/"
+    "url": "https://app.sekebit.com/#/",
+    "fixes":[
+        "رفع باگ"
+    ]
 }
